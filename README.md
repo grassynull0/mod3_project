@@ -1,10 +1,8 @@
 # Mod-3-Project
 
 #### Ben Inoyatov
----
 
 ## Introduction
----
 ---
 Data comes from Kaggle ( [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database) ). 
 Most visualizations were done using ``` seaborn ``` and ``` matplotlib ```. For regression I used ``` sklearn ```, ``` pandas ``` and ``` numpy ```.
