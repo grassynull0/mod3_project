@@ -5,10 +5,14 @@
 
 ## Introduction
 ---
-- Under represented groups suffer the most from disease and illness in America. This project will focus on predicting diabetes in Pima Native American Woman 
-### Our Question 
 ---
-- Minority groups in the United States are suffering worse from disease than others. Can we accurately predict diabetes in minority groups? We will use patient statistics like glucose level, insulin level, age, BMI, family history, blood pressure and others. 
+Data comes from Kaggle ( [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database) ). 
+Most visualizations were done using ``` seaborn ``` and ``` matplotlib ```. For regression I used ``` sklearn ```, ``` pandas ``` and ``` numpy ```.
+
+For more detailed visualizations and exploratory analysis refer to ``` workbook ```. 
+### The Question 
+---
+- Under represented groups suffer more from disease and illness in America than others. This project will focus on predicting diabetes in Pima Native American Woman Can we accurately predict diabetes in minority groups? We will use patient statistics like glucose level, insulin level, age, BMI, family history, blood pressure and others. 
 
 ###  Select Observations/Findings and Conclusions
 ---
