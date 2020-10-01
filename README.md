@@ -24,7 +24,10 @@ For more detailed visualizations and exploratory analysis refer to ``` workbook 
 - Target variable- diabetes
 
 ![rfgs_coefs](https://user-images.githubusercontent.com/44031998/94872161-e05fcb80-0419-11eb-86fb-57d33ace39a3.png)
-- The best model and its parameters
+- The best model and its coefficients
+
+![image](https://user-images.githubusercontent.com/44031998/94873050-2ddd3800-041c-11eb-83c4-e5c66cd48b39.png)
+- Parameters for the Random Forest
 
 ###  Recommendations 
 ---
